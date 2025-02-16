@@ -14,4 +14,9 @@ Lots of good stuff
 
 https://github.com/samoyedai/kaizen
 
+## Quick start
+```julia-repl
+(v1.10) pkg> add Kaizen
+```
+
 coming soon!
